@@ -9,7 +9,7 @@
 
 ##  About Me
 
--  **BS Software Engineering** — University of Mianwali *(Semester 6)*
+-  **BS Software Engineering** — University of Mianwali *(Semester 7 )*
 -  Currently interning as **AI/ML Engineer @ BetaBytez**
 -  Previously interned at **Qwetrum Technologies**, **DecodeLabs**, **Olympia Chemicals Ltd**
 -  **Founder & President** — Golay Wali Meri Pehchan Blood Donation Society *(700+ cases)*

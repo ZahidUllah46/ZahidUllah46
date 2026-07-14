@@ -13,7 +13,7 @@
 -  Currently interning as **AI/ML Engineer @ BetaBytez**
 -  Previously interned at **Qwetrum Technologies**, **DecodeLabs**, **Olympia Chemicals Ltd**
 -  **Founder & President** — Golay Wali Meri Pehchan Blood Donation Society *(700+ cases)*
--  Currently learning: **Machine Learning, Deep Learning, FastAPI**
+-  Currently learning: **Machine Learning, Deep Learning, Web development, Python**
 - Reach me at: **zahidullah9102@gmail.com**
 -  LinkedIn: [linkedin.com/in/zahid-ullah-067aa7283](https://linkedin.com/in/zahid-ullah-067aa7283)
 
